@@ -7,9 +7,13 @@ Make sure you read the Fancybox2 [licensing conditions](http://fancyapps.com/fan
 
 
 # Installation
-## Copy the files to their destination
-Download or clone this project on your system.
-Add the contents of the folder to the `_add-ons/fancybox` folder.
+## Clone or Copy the files to their destination
+Clone this project on your system:
+
+    cd webfolder/_add-ons
+    git clone git://github.com/mwesten/Plugin-Fancybox.git fancybox
+
+Or download the project and add the contents of archive to the `_add-ons/fancybox` folder.
 
 ## Add the fancybox init code to your head
 Open the theme file layout (for example) `_themes/london-wild/layouts/default.html`
