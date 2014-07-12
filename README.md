@@ -1,6 +1,9 @@
 Plugin-Fancybox
 ===============
 
+**This version is tested with Statamic 1.8.1**
+For a working version on Statamic 1.4.2 choose the branch statamic_1.4.
+
 Statamic plugin that adds [Fancybox2](http://fancyapps.com/fancybox) lightbox to your images on your site.
 
 Make sure you read the Fancybox2 [licensing conditions](http://fancyapps.com/fancybox/#license) regarding commercial use.
