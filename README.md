@@ -1,3 +1,7 @@
+> [!CAUTION]
+> **This repository is archived**  
+> The plugin is witten for Statamic v1; way back and is not maintained and not supported anymore.
+
 Plugin-Fancybox
 ===============
 
